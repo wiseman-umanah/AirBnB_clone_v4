@@ -101,3 +101,7 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+
+.amenity_filter {
+	margin-left: 10px;
+}
