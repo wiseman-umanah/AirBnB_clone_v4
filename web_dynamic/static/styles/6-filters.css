@@ -114,3 +114,9 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+.locations h2 {
+	display: inline;
+}
+.cities {
+	display: inline-block;
+}
