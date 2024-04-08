@@ -99,3 +99,20 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+.reviews {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 10px;
+}
+.reviews h2 {
+	margin: 0;
+}
+article ul {
+	padding: 20px;
+}
+article ul li {
+	list-style-type: disc;
+	margin-bottom: 5px;
+}
